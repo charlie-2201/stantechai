@@ -1,0 +1,2 @@
+# stantechai
+POst based project
